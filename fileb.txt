@@ -1,1 +1,2 @@
 " This is fileB:Ver1" 
+Version2
